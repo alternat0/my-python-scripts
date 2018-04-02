@@ -21,7 +21,3 @@ print(daftar_superhero.get('Batman'))
 print(daftar_superhero.keys())
 print(daftar_superhero.values())
 
-Masukkan singkatan kota: jkt
-Kota yang anda maksud: Jakarta
-
-gunakan Dictionary
